@@ -22,11 +22,11 @@ The news.py connects to Interactive Brokerage live news updates and prints the n
 The error message is as follows. 
 
 ```bash
-Error 10168, reqId 15: Requested market data is not subscribed. Delayed market data is not enabled., contract: Future(symbol='ES', lastTradeDateOrContractMonth='202306', exchange='CME')
+Error 10168, reqId 15: Requested market data is not subscribed. Delayed market data is not enabled., contract: Future(symbol='ES' lastTradeDateOrContractMonth='202306', exchange='CME')
 ```
 
 # Trading History
 The initial account I created consistently presented error messages, leading me to create a new account. The image below illustrates my successful automatic purchase of a contract on June 5th for $4,288.00, with the closing price for that day being $4,281.00. At the outset, the platform experienced frequent crashes, hindering my access to the complete transaction history.
-![alt text](https://github.com/drvee7/aig/blob/master/history.png?raw=true)
+![history](https://github.com/drvee7/aig/blob/main/history.png "history")
 
 
